@@ -1,0 +1,25 @@
+{
+  "name": "task10",
+  "version": "1.0.0",
+  "description": "'Add unit test for methods in the TaskManager class.'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laizeferraz/task10.git"
+  },
+  "author": "Laize",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laizeferraz/task10/issues"
+  },
+  "homepage": "https://github.com/laizeferraz/task10#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
