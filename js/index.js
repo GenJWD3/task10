@@ -1,4 +1,3 @@
-
 const taskManager = new TaskManager(0);
 
 taskManager.load();
